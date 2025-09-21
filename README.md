@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hai, saya Adelia 👋
 
-<!--
-**adeliadwioktaviani/adeliadwioktaviani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Mahasiswa Geofisika, Semester 3  
+💻 Sedang belajar **Metode Komputasi**  
+📺 Hobi menonton series  
 
-Here are some ideas to get you started:
+## 🔭 Proyek & Pembelajaran
+- Sedang mengerjakan latihan coding dan analisis data geofisika  
+- Bereksperimen dengan Python untuk simulasi dan komputasi numerik  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Skill
+- Python, MATLAB  
+- Analisis data, komputasi numerik, pemodelan sederhana  
+
+## 📫 Kontak
+- Instagram : delll.adelia
